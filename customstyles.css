@@ -1,0 +1,26 @@
+﻿body {
+    font-family: 'Comic Sans MS';
+    padding-left: 30px;
+    padding-right: 50px;
+    background-color:mediumpurple;
+    color:white;
+    text-align:center;
+}
+
+figcaption {
+    text-align:center;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 5px;
+    border: 2px groove;
+}
+
+figure {
+    border: 2px groove;
+}
+
+a:hover {
+    color: red;
+}
+a{color:white;}
